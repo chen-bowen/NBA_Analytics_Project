@@ -1,7 +1,7 @@
 # Predicting the Single Game Win Probability
 
 
-As a big-time basketball fan who happens to love data science, I am always quite interested if some of the historical game data could be useful for predicting the outcome of the next game. In fact, I did find strong predicted powers from the adavanced statistics provided by basketball-reference.com. For a better viewing experience please visit [!here](http://nbviewer.jupyter.org/github/chenbowen184/NBA_Analytics_Project/blob/master/NBA%20Single%20Game%20Predictions%20-%20Model.ipynb)
+As a big-time basketball fan who happens to love data science, I am always quite interested if some of the historical game data could be useful for predicting the outcome of the next game. In fact, I did find strong predicted powers from the adavanced statistics provided by basketball-reference.com. For a better viewing experience please visit [here](http://nbviewer.jupyter.org/github/chenbowen184/NBA_Analytics_Project/blob/master/NBA%20Single%20Game%20Predictions%20-%20Model.ipynb)
 
 Here are something you could find out in this project,
 
