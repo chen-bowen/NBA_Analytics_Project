@@ -22,7 +22,7 @@ Here are the actual results of the 11 games played on 2018-02-14
 | 2018-02-14 | **Toronto Raptors**       | **122.0**      | Chicago Bulls          | 98.0       |
 | 2018-02-14 | Atlanta Hawks         | 98.0       | **Detroit Pistons**        | **104.0**      |
 | 2018-02-14 | Sacramento Kings      | 91.0       | **Houston Rockets**        | **100.0**      |
-| 2018-02-14 | **Oklahoma City Thunder* | **121.0**      | Memphis Grizzlies      | 114.0      |
+| 2018-02-14 | **Oklahoma City Thunder** | **121.0**      | Memphis Grizzlies      | 114.0      |
 | 2018-02-14 | Los Angeles Lakers    | 117.0      | **New Orleans Pelicans**   | **139.0**      |
 | 2018-02-14 | **Washington Wizards**    | **118.0**      | New York Knicks        | 113.0      |
 | 2018-02-14 | **Charlotte Hornets**     | **104.0**      | Orlando Magic          | 102.0      |
