@@ -13,7 +13,7 @@ The 4 factors of winning the basketball game,
 
 How well does this model predict? Well You can find out yourself.
 
-Here are the actual results of the 11 games played on 2018-02-14 
+Here are the actual results of the 11 games played on 2018-02-14. Winning teams are in bold fonts.
 
 | Date       | Home Team             | Home Score | Away Team              | Away Score |
 |------------|-----------------------|------------|------------------------|------------|
